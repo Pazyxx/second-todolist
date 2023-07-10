@@ -44,7 +44,9 @@ button{
     }
 }
     
-
+hr{
+    margin-top: 2em;
+}
 
 ol, ol li {
      margin-left: 0;
