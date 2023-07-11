@@ -70,8 +70,7 @@ span{
     display: flex;
     font-size: 3vh !important;
     padding: 0.2em 1em ;
-    word-wrap: break-word;
-    hyphens: auto;
+    word-break: break-all;
 }
 
 section{
